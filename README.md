@@ -1,2 +1,3 @@
-# Lab_Vi_X-_L-_Vi_-i-u_Khi-n_L02
-Place too store lab exercise
+# Lab_Vi_Xu_Ly_Vi_Dieu_Khien_L02
+
+Place to store lab exercise
